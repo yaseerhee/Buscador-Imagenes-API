@@ -12,6 +12,7 @@ class Resultado extends Component{
                 <div className="col-12 p-5 row">
                     {imagenes.map(imagen => (
                         <Imagen 
+                            key={imagen.id}
                             imagen={imagen}
                         />
                     ) )}
