@@ -12,4 +12,6 @@ La aplicación consiste en un buscador de imágenes que accede a las fotos de Pi
 - **Paginación** -> Cada página tiene 30 imágenes y puedes pasar a otras páginas para ver más imágenes. :book:
 - **Resultado** -> Las imágenes que obtienes de la búsqueda. :white_check_mark:
 
+### Nivel: medio/avanzado :closed_book:
+
 
